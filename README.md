@@ -6,6 +6,6 @@
 - 📫 How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasriexinger/)
 
 ## My stats
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariexi&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariexi&show_icons=true&theme=ambient_gradient)](https://github.com/ariexi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariexi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariexi&theme=dark)](https://github.com/ariexi/github-readme-stats)
